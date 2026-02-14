@@ -20,8 +20,8 @@ https://github.com/signup
 アカウントに登録するには、メールアドレス、パスワード、ユーザー名などの情報を入力する必要があります。
 
 ## 2. GitHub Codespacesのタイムアウト時間を延長する
-デフォルトでは、Codespacesが用意した環境は30分で終了します。
-この期間はNode-REDフローを開発するには短すぎるため、ユーザの設定URLからタイムアウト時間を延長します。
+デフォルトでは、Codespacesが用意した環境は30分で終了してしまいます。
+この時間はNode-REDフローを開発するには短すぎるため、ユーザの設定URLからタイムアウト時間を延長します。
 
 https://github.com/settings/codespaces#default-idle-timeout-header
 
