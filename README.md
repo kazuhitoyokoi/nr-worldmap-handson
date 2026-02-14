@@ -41,6 +41,8 @@ Node-REDフローエディタを使用する準備が整うと、ダイアログ
 
 <img width="500" src="images/open-in-browser_ja.png">
 
+(上手く起動しない場合はターミナルに`npm start`と入力して手動で起動してみてください)
+
 緑色のボタン「ブラウザーで開く」をクリックすると、ブラウザの別のタブが開き、Node-REDフローエディタが表示されます。
 
 <img width="900" border="1" src="images/flow-editor_ja.png">
