@@ -30,7 +30,7 @@ https://github.com/settings/codespaces#default-idle-timeout-header
 <kbd><img width="640" src="images/default-idle-timeout.png"></kbd>
 
 ## 3. GitHub Codespacesに移動する
-このページにアクセスすると、右上隅に「Use this template」という緑色のボタンがあります。このボタンをクリックすると、メニューから2つのオプションを選択できます。
+このページの右上隅に「Use this template」という緑色のボタンがあります。このボタンをクリックすると、メニューから2つのオプションを選択できます。
 ここで「Open in a codespace」を選択して、Codespacesでテンプレートリポジトリを開きます。
 
 <img width="350" border="1" src="images/open-codespaces.png">
